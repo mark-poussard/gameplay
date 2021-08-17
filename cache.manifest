@@ -1,0 +1,4 @@
+CACHE MANIFEST
+# No longer using the application cache
+NETWORK:
+*
