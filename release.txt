@@ -1,0 +1,3 @@
+**Fixes**
+
+- Ensure ROM hacks are available in the game library (#209)
